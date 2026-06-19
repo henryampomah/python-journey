@@ -7,9 +7,9 @@ test_list = [1, 2, 3, 4, 5]
 print(shuffle_list(test_list))
 # %%
 import random
-def random_int()
+def random_int():
     return random.randint(0, 9)
-random_int
+random_int()
 # %%
 from random import sample
 
